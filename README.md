@@ -6,7 +6,7 @@
  |_| \_\   |_|   |_____|  \____|  \___/   \__,_|  \___| |_|                                           
 ```
 # RTL-Coder: Outperforming GPT-3.5 in RTL Code Generation with Our Fully Open-Source Dataset and Lightweight Solution
-Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and Zhiyao Xie, "RTL-Coder: Outperforming GPT-3.5 in RTL Code Generation with Our Fully Open-Source Dataset and Lightweight Solution"[[paper]](https://arxiv.org/abs/2312.08617)
+
 
 _**Note**: The model, dataset, inference scripts, data generation flow and training flow are provided._
 
@@ -18,11 +18,7 @@ We also introduce a new LLM training scheme based on code quality feedback. It f
 
 
 
-TABLE 1 summarizes existing works in LLM-based design RTL generation.
 
-<img src="_pic/LLM4RTL_comparison_arxiv.jpg" width="500px">
-
-TABLE 1: LLM-based works on design RTL generation (e.g., Verilog). 
 
 **In our work, we provide four RTL code generation models that are available on the HuggingFace platform.**
 
